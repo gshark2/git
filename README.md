@@ -1,1 +1,1 @@
-<scrscriptipt>alert(1)</scrscriptipt>
+<scrscrscriptiptipt>alert(1)</scrscrscriptiptipt>
