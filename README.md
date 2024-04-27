@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+<scrscriptipt>alert(1)</scrscriptipt>
